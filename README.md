@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm [Alex](https://alexander-ding.github.io)
 
 <a href="https://www.linkedin.com/in/alexander-j-ding/">
-  <img align="left" alt="Alexander Ding | LinkedIn" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/master/assets/linkedin.svg" />
+  <img align="left" alt="Alexander Ding | LinkedIn" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/linkedin.svg" />
 </a>
 <a href="mailto:ding@brown.edu">
-  <img align="left" alt="Alexander Ding | Email" width="21px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/master/assets/email.png" />
+  <img align="left" alt="Alexander Ding | Email" width="21px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/email.png" />
 </a>
 
 <br />
@@ -23,7 +23,7 @@ Hi, I'm Alex, a student developer pursuing a CS concentration at Brown. I do a l
 <a href="https://www.javascript.com/"><img height="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a>
 <a href="https://reactjs.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/react/react-original.svg"></a>
 <a href="https://redux.js.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg"></a>
-<a href="https://firebase.google.com/"><img height="20" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/master/assets/firebase.png"></a>
+<a href="https://firebase.google.com/"><img height="20" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/firebase.png"></a>
 <a href="https://www.python.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></a>
 <a href="https://pytorch.org/"><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></a>
 
