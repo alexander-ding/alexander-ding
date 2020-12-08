@@ -4,7 +4,7 @@
 </a>
 <a href="mailto:ding@brown.edu"><img alt="Alexander Ding | Email" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/email.png"/></a>
 
-Hi, I'm Alex, a student developer pursuing a CS concentration at Brown. I do a lot of full-stack developing, for fun or as a freelancer through [StuDev](https://studev.org/), and I've been conducting academic research through university labs. 
+I'm a student developer pursuing a CS concentration at Brown. I do a lot of full-stack developing, for fun or as a freelancer through [StuDev](https://studev.org/), and I've been conducting academic research through university labs. 
 
 - 🔬 Read about my research on [distributed computing](https://math.mit.edu/research/highschool/primes/materials/2019/Ding.pdf) and [medical machine learning applications](https://ieeexplore.ieee.org/abstract/document/9207288)
 - ♠️ Try the [24 game](https://alexander-ding.github.io/24/)!
