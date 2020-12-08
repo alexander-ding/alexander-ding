@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm [Alex](https://alexander-ding.github.io)
 
 <a href="https://www.linkedin.com/in/alexander-j-ding/">
-  <img align="left" alt="Alexander Ding | LinkedIn" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/linkedin.svg" />
+  <img align="left" alt="Alexander Ding | LinkedIn" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/linkedin.png" />
 </a>
 <a href="mailto:ding@brown.edu">
-  <img align="left" alt="Alexander Ding | Email" width="21px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/email.png" />
+  <img align="left" alt="Alexander Ding | Email" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/email.png" />
 </a>
 
 <br />
