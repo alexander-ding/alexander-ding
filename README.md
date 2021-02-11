@@ -14,11 +14,11 @@ I'm a student developer pursuing a CS concentration at Brown. I do a lot of full
 
 **Languages and Tools:**  
 
-<a href="https://www.javascript.com/"><img height="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a>
-<a href="https://reactjs.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/react/react-original.svg"></a>
-<a href="https://redux.js.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg"></a>
+<a href="https://www.javascript.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a href="https://reactjs.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://redux.js.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
 <a href="https://firebase.google.com/"><img height="20" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/firebase.png"></a>
-<a href="https://www.python.org/"><img height="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></a>
+<a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://pytorch.org/"><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></a>
 
 
