@@ -21,3 +21,4 @@ I'm a student developer pursuing a CS concentration at Brown. I do a lot of full
 <a href="https://firebase.google.com/"><img height="20" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/firebase.png"></a>
 <a href="https://www.python.org/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://pytorch.org/"><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></a>
+<a href="https://www.oracle.com/java/technologies/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
