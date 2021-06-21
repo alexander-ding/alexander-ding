@@ -8,7 +8,8 @@ I'm a student developer pursuing a CS concentration at Brown. I do a lot of full
 
 - 🔬 Read about my research on [distributed computing](https://math.mit.edu/research/highschool/primes/materials/2019/Ding.pdf) and [medical machine learning applications](https://ieeexplore.ieee.org/abstract/document/9207288)
 - 🃏 Try the [24 game](https://alexander-ding.github.io/24/)!
-- 🎵 Learn more about species counterpoint with [CounterPointer](https://www.counterpointer.app/)
+- 🔤 Get a funny version of your favorite English text on [Cycle Translator](https://alexander-ding.github.io/cycle-translator/)
+- 🎵 Explore species counterpoint with [CounterPointer](https://www.counterpointer.app/)
 - 📚 Learn yourself a Python for great good with [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/) ([中文版](https://cn.pythonlikeyoumeanit.com/))
 - 💬 Ask me about anything [here](https://github.com/alexander-ding/alexander-ding/issues)
 - 😄 Pronouns: he/him
