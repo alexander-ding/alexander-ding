@@ -4,7 +4,7 @@
 </a>
 <a href="mailto:ding@brown.edu"><img alt="Alexander Ding | Email" width="20px" src="https://raw.githubusercontent.com/alexander-ding/alexander-ding/main/assets/email.png"/></a>
 
-I'm a student developer pursuing a CS degree at Brown. I am an incoming SWE intern at Bloomberg for summer 2022, and I am the projects director at FullStack@Brown. I do research on body/pose-conditioned generative models with Daniel Ritchie at Brown Visual Computing. 
+I'm a CS concentrator at Brown and an incoming SWE intern at Bloomberg for summer 2022. I'm the projects director at FullStack@Brown, and I do research on body aware generative models with Daniel Ritchie at Brown Visual Computing. 
 
 - 🔬 Read about my research on [distributed computing](https://math.mit.edu/research/highschool/primes/materials/2019/Ding.pdf) and [medical machine learning applications](https://ieeexplore.ieee.org/abstract/document/9207288)
 - 🃏 Try the [24 game](https://alexander-ding.github.io/24/)!
