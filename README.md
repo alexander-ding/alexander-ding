@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Alex
 
-I'm an undergrad studying Computer Science at Brown University who enjoys tackling complex engineering problems and creating accessible tools to empower others. I am currently taking the fall semester off to work at Google after interning at Bloomberg this past summer. I am also the projects director at FullStack@Brown and do research on body-aware generative models through Brown Visual Computing. 
+I'm an senior at Brown University pursuing a 4-year concurrent ScB/ScM in Computer Science, and I've previously interned at [Bloomberg](https://www.bloomberg.com/company/what-we-do/), [Google](https://about.google/), and [Jane Street](https://www.janestreet.com/).
 
-You can check out [my website](https://alexding.me) to learn more about me 😄
+Over the years, I've focused on a range of different things, including full stack development, deep learning research, and, right now, computer systems.
+You can find out more about what I've worked on at [my website](https://alexding.me)!
 
 <b>📭 Need to reach me?</b> Shoot me an email at [ding@brown.edu](mailto:ding@brown.edu)
